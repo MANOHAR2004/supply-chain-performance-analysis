@@ -4,7 +4,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-
+ 
 ## Project Overview
 
 An end-to-end supply chain analytics project analysing 10,324 
